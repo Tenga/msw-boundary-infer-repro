@@ -1,0 +1,18 @@
+{
+  "name": "msw-boundary-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "msw": "^2.2.13",
+    "vitest": "^1.4.0"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
